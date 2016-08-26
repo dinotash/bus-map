@@ -1,6 +1,8 @@
 # bus-map
 Interactive visualization of the London bus network
 
+Demo: http://www.dinotash.com/routemaster/
+
 Click on any stop, and it will show you all the routes that stop there. Press + / - on the keyboard to zoom.
 
 I wrote busMap using processing.js. It is available under an MIT licence. Data was provided by Transport for London.
